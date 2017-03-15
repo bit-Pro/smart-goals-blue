@@ -11,7 +11,7 @@ All changes must be merged back in using a pull request that is to be reviewed b
 
 1. Hold a meeting to propose project ideas each week
 2. Attend 85% of Blue team BIT-pro meetings before mid-semester break
-3. Improve my writing in the PP2 class by the end of semester
+3. Improve my writing in the PP2 class by the end of semester, Communications advisors will measure this when proof reading submissions and offer advice
 4. Watch 5 videos on Lynda.com about team dynamics by two weeks time.
 5. Complete the beginners guide to photoshop from lynda.com in one week.
 6. Complete all set homework by its due date
