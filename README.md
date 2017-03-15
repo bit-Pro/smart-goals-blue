@@ -14,5 +14,5 @@ All changes must be merged back in using a pull request that is to be reviewed b
 3. Improve my writing in the PP2 class by the end of semester, Communications advisors will measure this when proof reading submissions and offer advice
 4. Watch 5 videos on Lynda.com about team dynamics by two weeks time.
 5. Complete the beginners guide to photoshop from lynda.com in one week.
-6. Complete all set homework by its due date
-7. Read a book about leadership before the end of semester
+6. Complete all set homework by its due date.
+7. Read a Tertiary level book about leadership aimed towards project management and team collaboration before the end of semester.
